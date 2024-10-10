@@ -68,7 +68,7 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="/https://github.com/devfacucoder/Testeando-JWT-NodeJs">
+              <a href="https://github.com/devfacucoder/Testeando-JWT-NodeJs">
                 <img src="Captura-jwt.PNG" alt="" />
                 <h3>api-res de users con JWT</h3>
               </a>
